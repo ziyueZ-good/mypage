@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "汤显祖研究文献目录（2016-2020）"
+title                    : "张子岳到此一游"
 title_separator          : "-"
 name                     : &name "Ziyue Zhang"
 description              : &description "What is she like?"
@@ -175,19 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
