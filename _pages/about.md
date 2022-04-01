@@ -13,7 +13,7 @@ Ziyue Zhang 究竟是什么人？
 ## 新进展
 
 
-<ul> {% for post in site.post %}
+<ul> {% for post in site.posts %}
           {% include archive-single.html %}
       {% endfor %}  
 </ul>
