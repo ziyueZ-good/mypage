@@ -10,7 +10,7 @@ redirect_from:
 
 Ziyue Zhang 究竟是什么人？
 
-## 新进展
+# 新进展
 
 
 <ul> {% for post in site.posts %}
