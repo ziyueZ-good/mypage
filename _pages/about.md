@@ -9,3 +9,11 @@ redirect_from:
 ---
 
 Ziyue Zhang 究竟是什么人？
+
+## 新进展
+
+
+<ul> {% for post in site.post %}
+          {% include archive-single.html %}
+      {% endfor %}  
+</ul>
